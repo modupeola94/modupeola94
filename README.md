@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @modupeola94
+- 👋 Hi, I’m @modupeola
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Software Development
 - 💞️ I’m looking to collaborate on ...
